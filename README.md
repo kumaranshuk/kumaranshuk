@@ -1,3 +1,4 @@
+![logo](https://github.com/kumaranshuk/kumaranshuk/blob/main/anshuk_bg.jpg)
 
 <h1 align="center">Hi 👋, I'm Anshuk Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
