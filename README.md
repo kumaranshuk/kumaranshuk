@@ -127,7 +127,7 @@ class AnshukKumar:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuk%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuk-kumar-700806239/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuk%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anshukshah)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-kanshuk777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanshuk777@gmail.com)
 &nbsp;
