@@ -1,81 +1,152 @@
-![logo](https://github.com/kumaranshuk/kumaranshuk/blob/main/anshuk_bg.jpg)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Anshuk Kumar</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:000000,100:001100&amp;height=200&amp;text=ANSHUK%20KUMAR&amp;fontSize=55&amp;fontColor=00FF41&amp;animation=blinking&amp;fontAlignY=45&amp;desc=AI%20%7C%20Data%20Engineer%20%7C%20ML%20Engineer&amp;descColor=39FF14&amp;descAlignY=68&amp;descAlign=50&amp;descSize=20"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&amp;weight=700&amp;size=20&amp;duration=2500&amp;pause=600&amp;color=00FF41&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=45&amp;lines=%3E+Initializing+AI+systems...;%3E+Loading+ML+pipelines...+%E2%9C%93;%3E+Machine+Learning+%7C+Deep+Learning+%7C+GenAI;%3E+Building+intelligent+systems+at+scale;%3E+Philosopher+with+a+GPU+cluster+%F0%9F%98%8C;%3E+Ready._" alt="Typing SVG" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryadevesh&label=Profile%20views&color=0e75b6&style=flat" alt="aryadevesh" /> </p>
+<br/>
 
-- 🌱 I’m currently learning *Artificial Intelligence, Machine Learning, Deep learning, Advanced Python, etc.*
+<img src="https://komarev.com/ghpvc/?username=kumaranshuk&amp;label=Profile+Views&amp;color=00FF41&amp;style=for-the-badge&amp;labelColor=000000" alt="Profile Views"/>
+&nbsp;&nbsp;
+<a href="https://github.com/kumaranshuk?tab=followers">
+  <img src="https://img.shields.io/github/followers/kumaranshuk?label=Followers&amp;style=for-the-badge&amp;color=00FF41&amp;labelColor=000000" />
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Domain-AI%20%26%20Data%20Engineering-00FF41?style=for-the-badge&amp;labelColor=000000"/>
 
+</div>
 
-- 📫 How to reach me *kanshuk777@gmail.com*
+---
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Pb2lXlkznesqiWvHwOGPabSHYGQZSl8r/view?usp=sharing)
+## 🧬 About Me
 
-- ⚡ Fun fact *I think I am a philosopher 😌*   
+```python
+class AnshukKumar:
+    def __init__(self):
+        self.name       = "Anshuk Kumar"
+        self.role       = "AI & Data Engineer"
+        self.location   = "India 🇮🇳"
+        self.email      = "kanshuk777@gmail.com"
+        self.philosophy = "Data is the new stethoscope."
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anshuk-kumar-700806239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh6395" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/devesharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_devesharya_" height="30" width="40" /></a> -->
-</p>
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
--->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-</p>
+    def what_i_build(self):
+        return [
+            "ML pipelines that power decisions at scale",
+            "Deep learning models for real-world intelligence",
+            "GenAI products from prototype to production",
+            "Data engineering: ETL, feature stores, data lakes",
+        ]
 
-<!--
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aryadevesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy us coffee" /></a></p><br><br>
--->
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryadevesh&show_icons=true&locale=en&layout=compact" alt="aryadevesh" /></p>
--->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaranshuk&show_icons=true&locale=en&layout=compact" alt="kumaranshuk" /></p>
+    def currently_learning(self):
+        return ["LLM fine-tuning", "MLOps at scale", "Agentic AI systems"]
 
+    def fun_fact(self):
+        return "I think I'm a philosopher 😌 — with a GPU cluster."
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryadevesh&" alt="aryadevesh" /></p>
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🧠 AI / ML / Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### 📊 Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### ⚙️ Engineering & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kumaranshuk&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=000000&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=ffffff" />
+&nbsp;
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaranshuk&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=000000&amp;title_color=00FF41&amp;text_color=ffffff" />
+
+<br/><br/>
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=kumaranshuk&amp;theme=matrix&amp;hide_border=true&amp;background=000000&amp;ring=00FF41&amp;fire=39FF14&amp;currStreakLabel=00FF41&amp;sideLabels=00FF41&amp;dates=ffffff" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kumaranshuk&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;column=6&amp;margin-w=8" />
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kumaranshuk&amp;bg_color=000000&amp;color=00FF41&amp;line=39FF14&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;area_color=003300" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumaranshuk/kumaranshuk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumaranshuk/kumaranshuk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kumaranshuk/kumaranshuk/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+---
+
+## 📡 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuk%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuk-kumar-700806239/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-kanshuk777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanshuk777@gmail.com)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-View%20Now-00FF41?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1Pb2lXlkznesqiWvHwOGPabSHYGQZSl8r/view?usp=sharing)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-kumaranshuk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumaranshuk)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"The Matrix is everywhere. So is the data." — Anshuk Kumar
+```
+
+⭐ **Found my work interesting? Drop a star!** ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:001100,100:000000&amp;height=60&amp;section=footer&amp;text=%3E%20EOF_&amp;fontSize=22&amp;fontColor=00FF41&amp;animation=blinking"/>
+
+</div>
